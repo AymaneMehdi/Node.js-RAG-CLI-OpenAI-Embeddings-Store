@@ -1,0 +1,24 @@
+{
+  "name": "node.js-rag-cli-openai-embeddings-store",
+  "version": "1.0.0",
+  "description": "A CLI-based RAG (Retrieval-Augmented Generation) system built with Node.js that stores embeddings locally to avoid recomputation and improve performance.",
+  "homepage": "https://github.com/AymaneMehdi/Node.js-RAG-CLI-OpenAI-Embeddings-Store#readme",
+  "bugs": {
+    "url": "https://github.com/AymaneMehdi/Node.js-RAG-CLI-OpenAI-Embeddings-Store/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AymaneMehdi/Node.js-RAG-CLI-OpenAI-Embeddings-Store.git"
+  },
+  "license": "ISC",
+  "author": "Aymane Mehdi",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "openai": "^6.35.0"
+  }
+}
